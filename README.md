@@ -52,4 +52,4 @@ This function deletes (remove) a file from given directory
 
 #### Note
 
-This code was built for references only. If you think it can be improved in anyhow, please let me know
+This code was built for references only. It can be improved, and if anyone wants to help, let me know
